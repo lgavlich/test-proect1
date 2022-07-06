@@ -16,7 +16,7 @@ export const Home = ()=>(
             <Card style ={{width:'18rem'}}>
                 <Card.Img variant ="top" src ={box}/>
                 <Card.Body>
-                    <Card.Title>Web sity</Card.Title>
+                    <Card.Title>Web site</Card.Title>
                         <Card.Text>
                         Our team will fulfill any of your tasks
                         </Card.Text>
@@ -28,7 +28,7 @@ export const Home = ()=>(
             <Card style ={{width:'18rem'}}>
                 <Card.Img variant ="top" src ={nout}/>
                 <Card.Body>
-                    <Card.Title>Web sity</Card.Title>
+                    <Card.Title>Web site</Card.Title>
                         <Card.Text>
                         Our team will fulfill any of your tasks
                         </Card.Text>
@@ -40,7 +40,7 @@ export const Home = ()=>(
             <Card style ={{width:'18rem'}}>
                 <Card.Img variant ="top" src ={img3}/>
                 <Card.Body>
-                    <Card.Title>Web sity</Card.Title>
+                    <Card.Title>Web site</Card.Title>
                         <Card.Text>
                         Our team will fulfill any of your tasks
                         </Card.Text>
