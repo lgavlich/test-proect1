@@ -1,8 +1,8 @@
 import React from 'react';
 import Slider from './Slider';
 import {Container,Row,Col,Card,Button} from 'react-bootstrap';
-import box from '../components/img/box.jpg';
-import nout from '../components/img/nout.jpg';
+import box from '../components/img/box.png';
+import nout from '../components/img/nout.png';
 import img3 from '../components/our works/img3.png';
 import Infocard from './infocard';
 

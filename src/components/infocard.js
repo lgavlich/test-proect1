@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container,Row, Col } from 'react-bootstrap';
-import people from '../components/img/people.jpg';
+import people from '../components/img/people.png';
 export const Infocard = ()=>(
     <>
     <Container style={{paddingTop:'2rem', paddingBottom:'2rem'}}>
